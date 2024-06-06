@@ -1,3 +1,6 @@
+# caculadore de raiz cuadrada exacta en numero enteros
+    # Esta fuciona solo si el resultado es un numero entero..
+
 objetivo =  int(input('Escoge un N° entero: '))
 respuesta = 0
 
